@@ -6,8 +6,10 @@ https://rohitwho.github.io/Fit-Zone/
 Description
 This is the official page for FitZone, the best workout guide. When the LIVE URL is clicked, the Home Page will appear displaying Our Mission in FitZone, our services such as workout guides and various fitness calculators, a word about us, and much more! Additionally, when the "About" link (in nav or footer) is clicked, the page will move the user to the corresponding section. This also applies to the rest of the tabs, aside from some that would transfer the user to a different page that correspond to the link. Moreover, when the FitZone icone to the left of the nav bar to the Home link are clicked, the user will be moved back to the home/ landing page. Lastly, when the user decides to brows our services by clicking on the workout guides or the various fitness calculators, they will be trasnferred to the corresponding pages!
 
-Screenshots of official FitZone website
-fitZone landing page fitZone 2 fitZone 3 fitZone 4 fitZone 5
+<img width="579" alt="Screen Shot 2023-04-25 at 6 01 25 PM" src="https://user-images.githubusercontent.com/126200765/234414206-9c1ab5d1-4603-4120-af7f-51e0e13e8fb0.png">
+<img width="581" alt="Screen Shot 2023-04-25 at 6 01 39 PM" src="https://user-images.githubusercontent.com/126200765/234414209-ab958ed1-ee85-4544-a74b-e2dd4ff838b5.png">
+<img width="581" alt="Screen Shot 2023-04-25 at 6 01 49 PM" src="https://user-images.githubusercontent.com/126200765/234414212-09645a4a-9bf4-4c4f-8af4-f0661fee3cb6.png">
+
 
 User Story
 As a user, I want to explore different types of workouts specifying muscle groups being trained
@@ -38,6 +40,7 @@ Fitness Calculator
 Fitness by ninja
 New York Timez
 Youtube
+
 Contributors
 Rohit Nayyar - rohitwho (Link: https://github.com/rohitwho)
 
